@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    text-align: center;
+    font-size: 72px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255,255,255);
+    text-shadow:1px 1px 5px black;
+}
+
+img.standard-size {
+    width: 300px;
+}
+ 
+.pink-border img {
+    border: 5px solid pink;
+}
